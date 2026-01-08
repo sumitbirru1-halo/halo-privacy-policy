@@ -41,3 +41,17 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 ## 9. Contact Us
 If you have questions about this Privacy Policy, contact us at:
 Email: halobyzeta@gmail.com
+
+(=Data Deletion Requests=)
+
+HALO does not require users to create accounts. Content is shared anonymously.
+
+If a user wishes to request deletion of content they have submitted, they may contact us at:
+
+Email: halobyzeta@gmail.com
+
+Please include:
+• The approximate date of submission
+• A brief description of the content
+
+We will review and delete eligible data within a reasonable timeframe.
